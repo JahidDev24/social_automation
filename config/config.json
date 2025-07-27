@@ -1,0 +1,24 @@
+{
+  "platforms": {
+    "instagram": {
+      "username": "developer.jahid@gmail.com",
+      "password": "Wipro@123",
+      "enabled": true
+    },
+    "snapchat": {
+      "username": "",
+      "password": "",
+      "enabled": false
+    },
+    "linkedin": {
+      "access_token": "",
+      "enabled": false
+    },
+    "facebook": {
+      "access_token": "",
+      "enabled": false
+    }
+  },
+  "xai_api_key": "xai-V9deLOZW5ocxfkJVLEQ9LjG6zftURQ9ymqXnTXlqnozff40XPGsvtEQ4GhycbAt3TozcsXvRhQpsfVDi",
+  "test_mode": true
+}

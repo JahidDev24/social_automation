@@ -1,0 +1,75 @@
+2025-07-27 17:31:25,295 - INFO - Script started
+2025-07-27 17:31:25,295 - INFO - Starting single test cycle
+2025-07-27 17:31:25,295 - INFO - Testing platform: instagram
+2025-07-27 17:31:25,295 - ERROR - Test cycle failed for instagram: [Errno 2] No such file or directory: 'config/config.json'
+2025-07-27 17:31:25,295 - INFO - Test cycle completed
+2025-07-27 17:33:38,950 - INFO - Script started
+2025-07-27 17:33:38,950 - INFO - Starting single test cycle
+2025-07-27 17:33:38,950 - INFO - Testing platform: instagram
+2025-07-27 17:33:38,950 - ERROR - Test cycle failed for instagram: [Errno 2] No such file or directory: 'config/config.json'
+2025-07-27 17:33:38,950 - INFO - Test cycle completed
+2025-07-27 17:36:55,706 - INFO - Script started
+2025-07-27 17:36:55,706 - INFO - Starting single test cycle
+2025-07-27 17:36:55,706 - INFO - Testing platform: instagram
+2025-07-27 17:36:57,256 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-07-27 17:36:58,337 - INFO - developer.jahid@gmail.com [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-07-27 17:37:06,104 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-07-27 17:37:07,034 - INFO - developer.jahid@gmail.com [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-07-27 17:37:07,034 - ERROR - Instagram login failed: We can't find an account with developer.jahid@gmail.com. Try another phone number or email, or if you don't have an Instagram account, you can sign up.
+2025-07-27 17:37:07,034 - ERROR - Test cycle failed for instagram: We can't find an account with developer.jahid@gmail.com. Try another phone number or email, or if you don't have an Instagram account, you can sign up.
+2025-07-27 17:37:07,040 - INFO - Test cycle completed
+2025-07-27 17:38:45,164 - INFO - Script started
+2025-07-27 17:38:45,165 - INFO - Starting single test cycle
+2025-07-27 17:38:45,165 - INFO - Testing platform: instagram
+2025-07-27 17:38:45,165 - ERROR - Test cycle failed for instagram: [Errno 2] No such file or directory: 'config/config.josn'
+2025-07-27 17:38:45,165 - INFO - Test cycle completed
+2025-07-27 17:39:23,165 - INFO - Script started
+2025-07-27 17:39:23,165 - INFO - Starting single test cycle
+2025-07-27 17:39:23,165 - INFO - Testing platform: instagram
+2025-07-27 17:39:23,797 - ERROR - Content generation failed for instagram: 404 Client Error: Not Found for url: https://api.x.ai/v1/grok/generate
+2025-07-27 17:39:23,798 - ERROR - Content generation failed for instagram: Error generating content. Try again later.
+2025-07-27 17:39:23,798 - INFO - Test cycle completed
+2025-07-27 17:45:05,508 - INFO - Script started
+2025-07-27 17:45:05,508 - INFO - Starting single test cycle
+2025-07-27 17:45:05,508 - INFO - Testing platform: instagram
+2025-07-27 17:45:09,230 - INFO - https://i.instagram.com/api/v1/launcher/sync/
+2025-07-27 17:45:09,854 - INFO - developer.jahid@gmail.com [200] POST https://i.instagram.com/api/v1/launcher/sync/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-07-27 17:45:15,105 - INFO - https://i.instagram.com/api/v1/accounts/login/
+2025-07-27 17:45:15,891 - INFO - developer.jahid@gmail.com [400] POST https://i.instagram.com/api/v1/accounts/login/ (269.0.0.18.75, OnePlus 6T Dev)
+2025-07-27 17:45:15,891 - ERROR - Instagram login failed: We can't find an account with developer.jahid@gmail.com. Try another phone number or email, or if you don't have an Instagram account, you can sign up.
+2025-07-27 17:45:15,891 - ERROR - Test cycle failed for instagram: We can't find an account with developer.jahid@gmail.com. Try another phone number or email, or if you don't have an Instagram account, you can sign up.
+2025-07-27 17:45:15,896 - INFO - Test cycle completed
+2025-07-27 17:45:45,863 - INFO - Script started
+2025-07-27 17:45:45,863 - INFO - Starting single test cycle
+2025-07-27 17:45:45,864 - INFO - Testing platform: instagram
+2025-07-27 17:45:48,870 - ERROR - Content generation failed for instagram: 404 Client Error: Not Found for url: https://api.x.ai/v1/grok/generate
+2025-07-27 17:45:48,871 - INFO - Using fallback content for instagram
+2025-07-27 17:45:48,871 - INFO - Generated content for instagram: Tech Update for Instagram
+Exciting news in tech! A...
+2025-07-27 17:45:49,388 - INFO - Image created: output/images/post_image_instagram.jpg
+2025-07-27 17:45:49,398 - ERROR - Video creation failed: MoviePy Error: creation of None failed because of the following error:
+
+[Errno 2] No such file or directory: 'unset'.
+
+.This error can be due to the fact that ImageMagick is not installed on your computer, or (for Windows users) that you didn't specify the path to the ImageMagick binary in file conf.py, or that the path you specified is incorrect
+2025-07-27 17:45:49,398 - INFO - Image created at: output/images/post_image_instagram.jpg
+2025-07-27 17:45:49,398 - ERROR - Video creation failed for instagram
+2025-07-27 17:45:49,398 - ERROR - Test cycle failed for instagram: name 'client' is not defined
+2025-07-27 17:45:49,398 - INFO - Test cycle completed
+2025-07-27 17:48:13,763 - INFO - Script started
+2025-07-27 17:48:13,763 - INFO - Starting single test cycle
+2025-07-27 17:48:13,763 - INFO - Testing platform: instagram
+2025-07-27 17:48:14,417 - ERROR - Content generation failed for instagram: 403 Client Error: Forbidden for url: https://api.x.ai/v1/chat/completions
+2025-07-27 17:48:14,417 - INFO - Using fallback content for instagram
+2025-07-27 17:48:14,417 - INFO - Generated content for instagram: Tech Update for Instagram
+Exciting news in tech! A...
+2025-07-27 17:48:14,443 - INFO - Image created: output/images/post_image_instagram.jpg
+2025-07-27 17:48:14,448 - ERROR - Video creation failed: MoviePy Error: creation of None failed because of the following error:
+
+[Errno 2] No such file or directory: 'unset'.
+
+.This error can be due to the fact that ImageMagick is not installed on your computer, or (for Windows users) that you didn't specify the path to the ImageMagick binary in file conf.py, or that the path you specified is incorrect
+2025-07-27 17:48:14,448 - INFO - Image created at: output/images/post_image_instagram.jpg
+2025-07-27 17:48:14,448 - ERROR - Video creation failed for instagram
+2025-07-27 17:48:14,448 - ERROR - Test cycle failed for instagram: name 'client' is not defined
+2025-07-27 17:48:14,449 - INFO - Test cycle completed

@@ -1,0 +1,6 @@
+# instagrapi==2.2.1
+schedule==1.2.0
+requests==2.31.0
+pillow==10.3.0
+moviepy==1.0.3
+python-social==0.3.6  # For future platform support
